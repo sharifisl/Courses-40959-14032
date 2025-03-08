@@ -1,2 +1,2 @@
-= Spring 2025
-== Deep Generative Models
+# Spring 2025
+## Deep Generative Models
